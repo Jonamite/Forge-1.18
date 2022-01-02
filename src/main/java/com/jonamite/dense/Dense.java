@@ -25,7 +25,7 @@ public class Dense
     private static final Logger LOGGER = LogManager.getLogger();
     public static final String MOD_ID = "dense";
 
-    // Very important Comment
+    // Important Comment
     public Dense() {
         // Register the setup method for modloading
         FMLJavaModLoadingContext.get().getModEventBus().addListener(this::setup);
