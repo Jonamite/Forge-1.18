@@ -1,3 +1,10 @@
 {
-  "item.dense.chapstick": "chapstick"
+  "item.dense.chapstick": "chapstick",
+  "item.dense.chapstick": "wood_chapstick",
+  "item.dense.chapstick": "glass_chapstick",
+  "item.dense.chapstick": "iron_chapstick",
+  "item.dense.chapstick": "gold_chapstick",
+  "item.dense.chapstick": "diamond_chapstick",
+  "item.dense.chapstick": "emerald_chapstick",
+  "item.dense.chapstick": "netherite_chapstick",
 }

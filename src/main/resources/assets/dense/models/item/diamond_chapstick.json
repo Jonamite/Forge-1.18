@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "dense:item/chapstick"
+    "layer0": "dense:item/diamond_chapstick"
   }
 }
