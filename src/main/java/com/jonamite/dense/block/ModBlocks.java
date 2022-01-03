@@ -1,6 +1,7 @@
 package com.jonamite.dense.block;
 
 import com.jonamite.dense.Dense;
+import com.jonamite.dense.item.ModCreativeModeTab;
 import com.jonamite.dense.item.ModItems;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.CreativeModeTab;
@@ -21,7 +22,7 @@ public class ModBlocks {
 
     public static final RegistryObject<Block> BLOCK_OF_CREAM = registerBlock("block_of_cream",
             () -> new Block(BlockBehaviour.Properties.of(Material.MOSS)
-                    .strength(2f).requiresCorrectToolForDrops()),CreativeModeTab.TAB_MISC);
+                    .strength(1f).requiresCorrectToolForDrops()), ModCreativeModeTab.DENSE_TAB);
 
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block, CreativeModeTab tab) {
         RegistryObject<T> toReturn = BLOCKS.register(name, block);
