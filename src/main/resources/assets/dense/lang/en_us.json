@@ -1,10 +1,11 @@
 {
-  "item.dense.chapstick": "chapstick",
-  "item.dense.chapstick": "wood_chapstick",
-  "item.dense.chapstick": "glass_chapstick",
-  "item.dense.chapstick": "iron_chapstick",
-  "item.dense.chapstick": "gold_chapstick",
-  "item.dense.chapstick": "diamond_chapstick",
-  "item.dense.chapstick": "emerald_chapstick",
-  "item.dense.chapstick": "netherite_chapstick",
+  "item.dense.chapstick": "Chapstick",
+  "item.dense.wood_chapstick": "Wood Chapstick",
+  "item.dense.glass_chapstick": "Glass Chapstick",
+  "item.dense.iron_chapstick": "Iron Chapstick",
+  "item.dense.gold_chapstick": "Gold Chapstick",
+  "item.dense.diamond_chapstick": "Diamond Chapstick",
+  "item.dense.emerald_chapstick": "Emerald Chapstick",
+  "item.dense.netherite_chapstick": "Netherite Chapstick",
+  "block.dense.block_of_cream": "Block of Cream"
 }
